@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DB Agent</title>
+    <link rel="stylesheet" href="ui/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1> Database Analyzer</h1>
+        
+            <!-- <label for="promptInput">Enter your query:</label><br>
+            <textarea id="promptInput" rows="4" cols="80"></textarea><br><br> -->
+            
+            <button id="fetchSchema"> Fetch Schema</button>
+            <button id="analyseSchema">Analyse Schema</button>
+        
+        <h2>Schema</h2>
+        <div style="width:600px; height:200px; overflow:auto">
+            <div id="schemaContainer"></div> 
+        </div>
+
+        <h2>Response</h2>
+        <div style="width:600px; height:200px; overflow:auto">
+            <div id="responseContainer"></div> 
+        </div>
+        
+    </div>
+    <script src="ui/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+productName,category,price,quantity
+Laptop,Electronics,999.99,50
+Smartphone,Electronics,499.99,200
+Tablet,Electronics,299.99,150
+Headphones,Accessories,89.99,300
+Mouse,Accessories,29.99,400
+Keyboard,Accessories,59.99,250
+Monitor,Electronics,199.99,100
+Printer,Electronics,129.99,75
+Camera,Electronics,549.99,40
+Smartwatch,Electronics,199.99,120
+Shirt,Clothing,25.99,500
+Jeans,Clothing,49.99,350
+Jacket,Clothing,89.99,200
+Sneakers,Footwear,69.99,150
+Sandals,Footwear,29.99,100
+Boots,Footwear,99.99,80
+Socks,Footwear,9.99,1000
+Tie,Accessories,19.99,300
+Belt,Accessories,24.99,250
+Hat,Accessories,14.99,150
+Dress,Clothing,59.99,120
+Skirt,Clothing,39.99,100
+Blouse,Clothing,29.99,200
+Perfume,Beauty,49.99,200
+Lipstick,Beauty,19.99,300
+Foundation,Beauty,29.99,250
+Mascara,Beauty,14.99,350
+Eyeliner,Beauty,12.99,400
+Shampoo,Personal Care,8.99,500
+Conditioner,Personal Care,9.99,450
+Body Wash,Personal Care,7.99,300
+Deodorant,Personal Care,5.99,400
+Toothpaste,Personal Care,3.99,600
+Toothbrush,Personal Care,2.99,550
+Hand Sanitizer,Personal Care,4.99,600
+Face Mask,Personal Care,1.99,1000
+Laptop Bag,Accessories,39.99,200
+Backpack,Accessories,49.99,150
+Suitcase,Accessories,89.99,100
+Wallet,Accessories,24.99,300
+Purse,Accessories,39.99,250
+Watch,Accessories,69.99,200
+Sunglasses,Accessories,29.99,300
+Necklace,Jewelry,99.99,100
+Bracelet,Jewelry,49.99,150
+Earrings,Jewelry,29.99,200
+Ring,Jewelry,59.99,120
+Book,Books,12.99,400
+Notebook,Books,5.99,600
+Pen,Stationery,1.99,1000
+Pencil,Stationery,0.99,1000
+Eraser,Stationery,0.49,800
+Marker,Stationery,2.99,700
+Ruler,Stationery,1.49,500
+Calculator,Stationery,9.99,100
+Desk,Office,199.99,50
+Chair,Office,99.99,100
+Lamp,Office,29.99,200
+Shelf,Office,79.99,75
+Printer Paper,Office,19.99,300
+Coffee Maker,Home Appliance,49.99,150
+Toaster,Home Appliance,29.99,100
+Blender,Home Appliance,39.99,80
+Mixer,Home Appliance,59.99,70
+Microwave,Home Appliance,89.99,60
+Refrigerator,Home Appliance,499.99,20
+Oven,Home Appliance,299.99,30
+Washing Machine,Home Appliance,399.99,25
+Dryer,Home Appliance,349.99,20
+Vacuum Cleaner,Home Appliance,99.99,40
+Fan,Home Appliance,29.99,150
+Air Conditioner,Home Appliance,299.99,15
+Heater,Home Appliance,49.99,50
+Iron,Home Appliance,29.99,100
+Rice Cooker,Home Appliance,24.99,70
+Slow Cooker,Home Appliance,34.99,60
+Electric Kettle,Home Appliance,19.99,120
+Frying Pan,Home Appliance,14.99,200
+Saucepan,Home Appliance,19.99,180
+Cutlery Set,Home Appliance,29.99,150
+Dinner Set,Home Appliance,49.99,100
+Tablecloth,Home Appliance,14.99,250
+Curtains,Home Appliance,29.99,180
+Bedsheets,Home Appliance,39.99,200
+Pillow,Home Appliance,1100,300
+Blanket,Home Appliance,49.99,150
+Mattress,Home Appliance,1199.99,20
