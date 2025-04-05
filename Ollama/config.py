@@ -1,8 +1,9 @@
-DB_CONFIG = {
-    'host': 'localhost',
-    'user': 'your_user',
-    'password': 'your_password',
-    'database': 'your_db'
-}
+import os
 
-OLLAMA_MODEL = "mistral:latest"  # or llama3, etc.
+DB_CONFIG = {
+    'host': os.getenv('DB_HOST', 'localhost'),
+    'user': os.getenv('DB_USER', 'user'),
+    'password': os.getenv('DB_PASSWORD', ''),
+    'database': os.getenv('DB_NAME', 'dbname')
+    }
+OLLAMA_MODEL = "mistral:latest"
