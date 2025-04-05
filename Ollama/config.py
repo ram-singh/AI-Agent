@@ -5,4 +5,4 @@ DB_CONFIG = {
     'database': 'your_db'
 }
 
-OLLAMA_MODEL = "mistral"  # or llama3, etc.
+OLLAMA_MODEL = "mistral:latest"  # or llama3, etc.
