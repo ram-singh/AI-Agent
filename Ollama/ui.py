@@ -38,7 +38,7 @@ elif option == "Validate current schema":
     if st.button("Validate Schema"):
         with st.spinner("Analyzing schema..."):
             result = validate_schema()
-        st.text_area("Schema Review", result, height=300)
+        st.text_area("Schema Review", result, height=500)
 
 elif option == "Define new table schema":
     schema_request = st.text_area("Describe the table you need:")
