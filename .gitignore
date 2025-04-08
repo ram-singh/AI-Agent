@@ -1,7 +1,5 @@
-#OpenAI
 node_modules
 OpenAI/.env
 
 
-#Ollama
-Ollama/config.py
+ Ollama/config.py
