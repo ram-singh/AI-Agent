@@ -1,5 +1,5 @@
 # install required plugin under /lg1 directory
-poetry add langchain langchain_community langgraph langchain-openai python-decouple duckduckgo-search gradio beautifulsoup4 tavily-python
+poetry add requests langchain langchain_community langgraph langchain-openai python-decouple duckduckgo-search gradio beautifulsoup4 tavily-python
 
 
 
