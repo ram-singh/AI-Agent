@@ -3,3 +3,9 @@ OpenAI/.env
 
 
  Ollama/config.py
+
+
+ langgraph/.env
+ langgraph/.env.local
+ langgraph/lg1/.venv    
+ 
