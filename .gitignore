@@ -9,3 +9,7 @@ OpenAI/.env
  langgraph/.env.local
  langgraph/lg1/.venv    
  
+ **/__pycache__/
+ /venv
+ ai-test-agent/agents/__pycache__/
+ ai-test-agent/.env
