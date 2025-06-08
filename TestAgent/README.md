@@ -33,4 +33,8 @@ npm run dev
 http://localhost:5000 — should load the React app
 http://localhost:5000/api/hello — should return the backend JSON
 
+#### Fix Jest.config.js for angular app
+coverageDirectory: 'coverage/'
+coverageReporters: ['html', 'json', 'text-summary']
+
 #### In development, you can still run Vite separately using npm run dev inside frontend

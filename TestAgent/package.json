@@ -2,8 +2,9 @@
   "name": "testagent",
   "version": "1.0.0",
   "description": "This tool analyzes Jest test coverage in your Angular 18 project and identifies files with less than 90% line coverage.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,5 +13,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
